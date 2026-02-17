@@ -1,6 +1,6 @@
 # Active Directory
 
-Using Server Manager, install Windows Server Backup.
+You have a domain controller which you previously created for Electric-Petrol. Using Server Manager, install Windows Server Backup.
 
 <figure>
 <img src = "https://jor-donegal.github.io/BackupExercise26/images/fig1.jpg">
