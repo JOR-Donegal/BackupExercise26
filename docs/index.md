@@ -1,7 +1,5 @@
 # Introduction
 
-!!! abstract "Introduction to Stuff"
+!!! abstract "Backup Exercises"
 
-This will be the main introduction page
-
-Edit mkdoc.yml to set the name of this document
+Depending on the programme of study and how much time we can assign to this, these notes give examples of different scenarios we need to know to operate an infrastructure.
